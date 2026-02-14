@@ -1,13 +1,10 @@
 # Introduction
-# Here’s a **more professional and creative GitHub self-introduction** you can use:
 
----
+##  Hello, I’m Kushagra Singh
 
-## 👋 Hello, I’m Kushagra Singh
+A dedicated Computer Science student with a strong foundation in programming and problem-solving. I am passionate about transforming ideas into structured, efficient, and scalable solutions through clean code and logical design.
 
-🎓 A dedicated Computer Science student with a strong foundation in programming and problem-solving. I am passionate about transforming ideas into structured, efficient, and scalable solutions through clean code and logical design.
-
-💻 **Technical Interests & Skills:**
+**Technical Interests & Skills:**
 
 * Java & Object-Oriented Programming
 * Python for problem-solving and scripting
@@ -15,12 +12,9 @@
 * Basic Web Development
 * Cloud Computing Fundamentals
 
-🚀 I focus on building projects that strengthen my fundamentals while exploring real-world applications of technology. I believe in writing readable code, understanding core concepts deeply, and continuously improving through practice and experimentation.
+ I focus on building projects that strengthen my fundamentals while exploring real-world applications of technology. I believe in writing readable code, understanding core concepts deeply, and continuously improving through practice and experimentation.
 
-📈 Currently enhancing my skills in software development principles, system thinking, and modern development tools.
+Currently enhancing my skills in software development principles, system thinking, and modern development tools.
 
-🤝 Open to collaboration, learning opportunities, and contributing to meaningful projects.
+Open to collaboration, learning opportunities, and contributing to meaningful projects.
 
----
-
-If you want, I can also create a **very modern tech-style GitHub bio with badges and formatting** (like professional developers use).
